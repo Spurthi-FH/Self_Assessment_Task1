@@ -1,4 +1,3 @@
-
 public class SoliloquySorter {
 
     public static void main(String[] args) {
@@ -37,3 +36,4 @@ public class SoliloquySorter {
         }
     }
 }
+
